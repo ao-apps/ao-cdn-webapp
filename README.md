@@ -23,7 +23,7 @@ Content delivery network (CDN) as a Web Application.
 * [Project Home](https://oss.aoapps.com/cdn/webapp/)
 * [Changelog](https://oss.aoapps.com/cdn/webapp/changelog)
 * [API Docs](https://oss.aoapps.com/cdn/webapp/apidocs/)
-* [Maven Central Repository](https://central.sonatype.com/search?namespace=com.aoapps&q=a%3Aao-cdn-webapp)
+* [Maven Central Repository](https://central.sonatype.com/artifact/com.aoapps/ao-cdn-webapp)
 * [GitHub](https://github.com/ao-apps/ao-cdn-webapp)
 
 ## Contact Us
