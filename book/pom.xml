@@ -43,6 +43,8 @@ along with ao-cdn-webapp.  If not, see <https://www.gnu.org/licenses/>.
     <documented.description>Content delivery network (CDN) as a Web Application.</documented.description>
 
     <description.html><![CDATA[Documentation for <a target="${javadoc.target}" href="${project.url}">${documented.name}</a> in <a target="${javadoc.target}" href="https://semanticcms.com/">SemanticCMS</a> format.]]></description.html>
+    <!-- SonarQube -->
+    <sonar.projectKey>${project.groupId}:${project.artifactId}:javaee</sonar.projectKey>
   </properties>
 
   <name>AO CDN Webapp Book</name>
