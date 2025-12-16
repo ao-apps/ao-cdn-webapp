@@ -35,7 +35,7 @@ def upstreamProjects = [
 
   // Direct
   'data', // <groupId>com.aoapps</groupId><artifactId>ao-cdn-data</artifactId>
-  'servlet', // <groupId>com.aoapps</groupId><artifactId>ao-cdn-servlet</artifactId>
+  'servlet-javaee', // <groupId>com.aoapps</groupId><artifactId>ao-cdn-servlet</artifactId>
   // No Jenkins: <groupId>javax.servlet</groupId><artifactId>javax.servlet-api</artifactId>
 
   // BOM
