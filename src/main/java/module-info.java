@@ -21,9 +21,10 @@
  * along with ao-cdn-webapp.  If not, see <https://www.gnu.org/licenses/>.
  */
 module com.aoapps.cdn.webapp {
-  exports com.aoapps.cdn.webapp;
   // Direct
   requires com.aoapps.cdn.data; // <groupId>com.aoapps</groupId><artifactId>ao-cdn-data</artifactId>
   requires com.aoapps.cdn.servlet; // <groupId>com.aoapps</groupId><artifactId>ao-cdn-servlet</artifactId>
   requires jakarta.servlet; // <groupId>jakarta.servlet</groupId><artifactId>jakarta.servlet-api</artifactId>
+
+  exports com.aoapps.cdn.webapp;
 }
